@@ -1,0 +1,49 @@
+Privacy Policy
+The author developed the Skywave Schedules app as a free app in the hope that it is useful. This app is provided at no cost and is intended for use as is.
+
+This page is used to inform website visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decides to use the app.
+
+Information Collection and Use
+The app can hold a receiver location latitude and longitude in Degrees/Minutes entered by the app user, this data is held on your device only and the developer does not have access to this information and will never ask for this information or in the future, if you have any concerns regards your receiver location you can enter a fictitious Latitude/Longitude if you wish, or none at all as this is an optional feature used only to estimate the distance between the receiver and transmitter.
+The app does not collect information used to identify you, however the app delivery system Google Play Services will collect information about you and I recommend you read their Privacy Policy. GitHub and KiwiSDR may also store information about you and I recommend you read their Privacy Policies. 
+Accessing any websites from the app will result in storing cookies and suggest you check the sites privacy policies before visiting them and decide whether you want to continue using the app.  
+
+Whenever you use Skywave Schedules no data is collected about you by the app, when you use the app or carry out an update to the schedules, the websites you visit may collect information about your connection to the server, but the app will not collect any personal data about you or your device. Your install and use of the app is your permission to Google Play to store information about you.
+The app requires permission to connect to the internet to download a schedules update, but will only do this when you request it. Part of this process involves saving data to read/write data to the built in storage area on your device in order to present the update to the app and thefore also requires storage permissions. You will have to agree to these permissions prior to installing the app. 
+
+Link to privacy policy of third party service providers used by the app
+Google Play Services: https://www.google.com/policies/privacy
+GitHub: https://help.github.com/articles/github-privacy-statement
+
+Log/Favourites Data
+No data is collected about you by the app unless you specifically enter this yourself, such as in the Comments field. Future versions may store additional app data locally on your device, but no personal data will be accessed or stored by the app. 
+
+Cookies
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices internal memory.
+The app does not use these “cookies” directly. However, the app may connect to some websites that may track you although the app itself will never do this or hold any tracking data or attempt to retrieve any personal data on your device. SDR receivers such as KiwiSDR or WebSDR generally only hold tuning information in cookies at the time of writing.
+
+Service Providers
+I may employ third-party companies (e.g. Google Play Services) and individuals for the following reasons:
+- To facilitate our Service;
+- To provide the Service on our behalf;
+- To perform Service-related services; or
+- To assist us in analyzing how our Service is used.
+- I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. An example of use by Google Play Services is to identify what type of device you are using and version of Android you are running in order to help identify any bugs that may occur.
+
+Security
+Remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+SDR Receivers and links to other sites
+The latest Alpha/Beta versions of the app (greater than v1.1.49) contains links to SDR receivers. Schedule information is downloaded from GitHub. KiwiSDR.com and Websdr.org are used for linking to remote SDRs. If you do not agree to this then please do not use the app.
+
+World Map
+The latest Beta/Alpha version of the app contains an offline fixed zoom map feature, this map does not connect to the internet and uses local files to generate a usable map feature to plot where station transmitter sites are situated around the globe. Map data is kindly provided by Openstreetmap and contributors which is copyrighted and must not be reproduced without complying with their licence. 
+
+Children’s Privacy
+This app is suitable for ages 3+ and does not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+
+Changes to This Privacy Policy
+Our Privacy Policy may be updated from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+Contact Us
+If you have any questions, concerns or suggestions about my Privacy Policy, do not hesitate to contact me.

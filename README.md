@@ -1,4 +1,3 @@
-Skywave Schedules.
-CSV of EiBi Frequency List for Skywave Schedules App.
-Non-commerical use only.
-Fork for update base.
+# Skywave Schedules
+- CSV of EiBi Frequency List for Skywave Schedules App
+- Non-commerical use only
