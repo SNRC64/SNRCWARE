@@ -24,6 +24,13 @@ aberdeen coastguard wx
 abidjan radio
 abu dhabi onshore oil
 adelaide radio
+af dransport davlenie
+af transport kasta
+af transport klarnetist
+af transport korsar
+af transport magnetron
+af transport polis
+af transport proselok
 agadir radio
 agana guam hfdl (id16)
 air horn channel marker
