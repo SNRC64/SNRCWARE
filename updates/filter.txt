@@ -1,29 +1,7 @@
-1afmsog chief af mars
 3ac radio monaco
-3bb mauritius radio
-3dp suva radio
-3sd beijing meteo fax
-3vt tunis radio
-3vw la goulette radio
-4ob bar radio
 4xz israeli navy haifa
-6ww dakar stanag
-6ww french navy stanag
-7ta alger radio
-7tb annaba radio
-7to oran radio
-8bb35 jakarta bmg meteo
-9kk kuwait radio
-9mb malaysia navy lumut
 9vf kyodo news agcy fax
 9vf209 meteo fax
-9yl north post radio
-a3a nukualofa radio
-aberdeen coastguard
-aberdeen coastguard wx
-abidjan radio
-abu dhabi onshore oil
-adelaide radio
 af transport davlenie
 af transport kasta
 af transport klarnetist
@@ -31,13 +9,11 @@ af transport korsar
 af transport magnetron
 af transport polis
 af transport proselok
-agadir radio
 agana guam hfdl (id16)
 air force bear net
-air horn channel marker
-air-horn channel marker
 aktyubinskaero ambarcik
 al muharraq hfdl (id15)
+
 al muharraq hfdl (id2)
 al mutawa marine works
 alarm channel marker
