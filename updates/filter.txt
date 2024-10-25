@@ -24,7 +24,7 @@ aberdeen coastguard wx
 abidjan radio
 abu dhabi onshore oil
 adelaide radio
-af dransport davlenie
+af transport davlenie
 af transport kasta
 af transport klarnetist
 af transport korsar
@@ -33,6 +33,7 @@ af transport polis
 af transport proselok
 agadir radio
 agana guam hfdl (id16)
+air force bear net
 air horn channel marker
 air-horn channel marker
 aktyubinskaero ambarcik
@@ -73,8 +74,8 @@ astrakhan radio
 astrakhanaero serioshka
 auckland hfdl (id5)
 auckland radio
-auckland volmet x20,x50
-australia volmet x00,30
+auckland volmet x20
+australia volmet x00
 australian airforce ale
 australian mhfcs ale
 australian police ale
@@ -85,13 +86,13 @@ bahia fildes radio
 baku aero sardina
 bangkok meterolog.radio
 bangkok radio dsc
-bangkok volmet x10,x40
+bangkok volmet x10
 bari radio ipb
 barrow hfdl (id9)
 basuo radio
 bdf2 shanghai fax
 beijing ale
-beijing volmet x15,x45
+beijing volmet x15
 belaya gora radio
 belfast coast guard
 belfast coastguard
@@ -197,9 +198,9 @@ columbia coastguard
 com.rivadaviavolmet x30
 commsta portsmouth va dsc
 constanta radio
-cordoba volmet x25, x35
-córdoba volmet x25, x35
-córdoba volmet x25, x45
+cordoba volmet x25
+córdoba volmet x25
+córdoba volmet x25
 corps of engineers ale
 coruna radio
 coruña radio
@@ -334,7 +335,7 @@ gander radio a
 gander radio b
 gander radio c
 gander radio f
-gander volmet x20,x50
+gander volmet x20
 gaurdia civil ale
 gazprom nogliki radio
 gendameria chile ale
@@ -350,7 +351,7 @@ gladstone radio
 goose channel marker
 gqd anthorn
 greek air force ale
-guangzhou volmet x00,30
+guangzhou volmet x00
 guardia civil ale
 guardia di finanza ale
 gya northwood meteo fax
@@ -391,8 +392,8 @@ ho chi minh ville radio dsc
 holyhead coastguard
 hon gai radio
 hong kong observatory
-hongkong volmet x15,x45
-honolulu volmet x25,x55
+hongkong volmet x15
+honolulu volmet x25
 hornafjördur radio tft
 hsw64 bangkok meteo fax
 hue radio
@@ -422,7 +423,7 @@ iraqi security fcs. ale
 iraqi security fcs.ale
 irish naval service
 irit weather radio
-irkutsk volmet x25,x55
+irkutsk volmet x25
 isafjördur radio tfz
 isewan martis x00,x30
 isewan martis x15x45
@@ -524,9 +525,9 @@ kaliningrad radio uiw23
 kamenka-1 radio
 kamskoye ustye radio
 kan gimmel
-kanmon martis x00,x30
-kanmon martis x15,x45
-karachi volmet x15,x45
+kanmon martis x00
+kanmon martis x15
+karachi volmet x15
 kazan aero
 kazan aero melodia dwa
 kcb53 nws barrow
@@ -548,7 +549,7 @@ kinshasa radio
 kirinskoye radio
 klb seattle radio
 kolkata radio
-kolkata volmet x05,x35
+kolkata volmet x05
 komsomolsk-1 radio
 korsakov radio 12
 kotlas aero
@@ -627,7 +628,7 @@ mrcc papeete
 msf time from npl
 mumbai radio
 mumbai radio dsc
-mumbai volmet x25,x55
+mumbai volmet x25
 murmansk 1 mrcc
 murmansk mrcc
 murmansk r. udk (mtk-2)
@@ -663,7 +664,7 @@ new york radio e
 new york radio ldoc
 new york radio nat-a
 new york radio nat-e
-new york volmet x00,x30
+new york volmet x00
 nha trang radio xvn
 niamey radio
 nigerian police ale
@@ -682,6 +683,7 @@ nmn uscg chesapeake
 nmn uscg chesapeake ale
 nmo navtex honolulu
 nmo uscg honolulu
+noise jammer
 noj fax kodiak
 noj uscg kodiak
 noj uscg kodiak digital
@@ -690,7 +692,7 @@ norway navy stanag
 nouakchott radio
 novorossiysk mrcc
 novosib. aero katyusha
-novosibir volmet x10,40
+novosibir volmet x10
 novosibirsk aero
 novy urengoy aero
 npg us navy stanag
@@ -980,7 +982,7 @@ romanian police ale
 romaradio iar
 rostov aero
 rostov aero shpora
-rostov volmet x25,55
+rostov volmet x25
 russian air force
 russian naval air
 russian navy
@@ -1001,7 +1003,7 @@ salekhard aero
 salekhard aerofabrikant
 samara aero
 samara aero amba
-samara volmet x15,45
+samara volmet x15
 samarkand aero
 san francisco hfdl (id1)
 san francisco hfdl(id1)
@@ -1054,10 +1056,10 @@ shetland coastguard
 shetland coastguard wx
 siglufjördur radio tfx
 singapore radio
-singapore volmet x20,x50
-singaporevolmet x20,x50
-singpore volmet x20,x50
-singporevolmet x20,x50
+singapore volmet x20
+singaporevolmet x20
+singpore volmet x20
+singporevolmet x20
 slot machine
 slovak military ale
 slovenian military ale
@@ -1078,7 +1080,7 @@ stockholm radio (air)
 stolbovoy radio
 stornoway coastguard
 stornoway coastguard wx
-stpeterbg volmet x05,35
+stpeterbg volmet x05
 surgut aero tsadik-dva
 svetly radio kaliningr.
 svj4 athens meteo fax
@@ -1090,7 +1092,7 @@ sxv ny spata att.stanag
 sydney radio
 syktyvkar aero
 syktyvkar aero sivkar
-syktyvkar volmet x00,30
+syktyvkar volmet x00
 t channel marker
 t channel marker 1050hz
 taganrog radio
@@ -1105,8 +1107,8 @@ tarifa radio
 tarko-sale aero
 tas maritime radio
 tashkent aero
-tashkent volmet x10,x40
-tashkent volmet x20,x50
+tashkent volmet x10
+tashkent volmet x20
 tbb ny ankara stanag
 tbb turk.navy stanag
 tbo turk.navy stanag
@@ -1133,7 +1135,7 @@ tokyo martis x00,x30
 tokyo martis x15
 tokyo martis x15,x45
 tokyo radio
-tokyo volmet x10,x40
+tokyo volmet x10
 trenton military
 trenton volmet
 tripoli radio
