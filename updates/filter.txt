@@ -13,87 +13,35 @@ agana guam hfdl (id16)
 air force bear net
 aktyubinskaero ambarcik
 al muharraq hfdl (id15)
-
-al muharraq hfdl (id2)
-al mutawa marine works
 alarm channel marker
-albanian government ale
 albrook hfdl (id11)
-algeria gendarmerie ale
-algerian military ale
-algiers radio
-almaty aero
-als162 time signals
-amamapare radio
-amazon military ale
 amderma aero
-american red cross
-american red cross ale
-anadyr radio
-angolan police ale
-annaba radio
 antanan.volmet x25,x50
-apsua radio
-aqaba radio dsc
 aqp navy karachi
-aqp pakistan navy
-archirodon constr.co.
-arecibo hf atmos.tests
 arkhangelsk aero
-armenian military net
 armor french ny usb/fsk
-armyaviation scptoc ale
 arrecife radio
 ashgabat aero
-astana aero
-astrakhan radio
 astrakhanaero serioshka
 auckland hfdl (id5)
 auckland radio
-auckland volmet x20
-australia volmet x00
-australian airforce ale
-australian mhfcs ale
-australian police ale
-austrian military ale
-azeri emergency ale
+auckland volmet x20,x50
+australia volmet x00,30
 baf beijing meteo fax
-bahia fildes radio
 baku aero sardina
 bangkok meterolog.radio
-bangkok radio dsc
-bangkok volmet x10
-bari radio ipb
+bangkok volmet x10,x40
 barrow hfdl (id9)
-basuo radio
-bdf2 shanghai fax
-beijing ale
-beijing volmet x15
-belaya gora radio
-belfast coast guard
-belfast coastguard
-belgian navy stanag
+beijing volmet x15,x45
 ben thuy radio
-bilbao radio
-bisan martis x00,x30
-bisan martis x15,x45
-bmf taipei meteo fax
 bodo radio
 boeing seattle
-bonneville poweradm.ale
-bosnian emergency ale
-bpc time signal
-bpl time signal
 bpm xian
-brazilian army ale
-brazilian navy
-brazilian navy ale
 brazzaville radio
-bremen rescue radio
 brisbane radio
 bucuresti aero
 bulg.military promrch
-bulgaria diplo
+
 ca mau radio
 cabo de gata radio
 cabo la nao radio
@@ -174,9 +122,7 @@ columbia coastguard
 com.rivadaviavolmet x30
 commsta portsmouth va dsc
 constanta radio
-cordoba volmet x25
-córdoba volmet x25
-córdoba volmet x25
+cordoba volmet x25,x45
 corps of engineers ale
 coruna radio
 coruña radio
@@ -311,7 +257,7 @@ gander radio a
 gander radio b
 gander radio c
 gander radio f
-gander volmet x20
+gander volmet x20,x50
 gaurdia civil ale
 gazprom nogliki radio
 gendameria chile ale
@@ -525,7 +471,7 @@ kinshasa radio
 kirinskoye radio
 klb seattle radio
 kolkata radio
-kolkata volmet x05
+kolkata volmet x05,x35
 komsomolsk-1 radio
 korsakov radio 12
 kotlas aero
@@ -604,7 +550,7 @@ mrcc papeete
 msf time from npl
 mumbai radio
 mumbai radio dsc
-mumbai volmet x25
+mumbai volmet x25,x55
 murmansk 1 mrcc
 murmansk mrcc
 murmansk r. udk (mtk-2)
@@ -1111,7 +1057,7 @@ tokyo martis x00,x30
 tokyo martis x15
 tokyo martis x15,x45
 tokyo radio
-tokyo volmet x10
+tokyo volmet x10,x40
 trenton military
 trenton volmet
 tripoli radio
