@@ -399,7 +399,7 @@ iraqi security fcs. ale
 iraqi security fcs.ale
 irish naval service
 irit weather radio
-irkutsk volmet x25
+irkutsk volmet x25,x55
 isafjördur radio tfz
 isewan martis x00,x30
 isewan martis x15x45
@@ -668,7 +668,7 @@ norway navy stanag
 nouakchott radio
 novorossiysk mrcc
 novosib. aero katyusha
-novosibir volmet x10
+novosibir volmet x10,40
 novosibirsk aero
 novy urengoy aero
 npg us navy stanag
@@ -958,7 +958,7 @@ romanian police ale
 romaradio iar
 rostov aero
 rostov aero shpora
-rostov volmet x25
+rostov volmet x25,55
 russian air force
 russian naval air
 russian navy
@@ -979,7 +979,7 @@ salekhard aero
 salekhard aerofabrikant
 samara aero
 samara aero amba
-samara volmet x15
+samara volmet x15,45
 samarkand aero
 san francisco hfdl (id1)
 san francisco hfdl(id1)
@@ -1056,7 +1056,7 @@ stockholm radio (air)
 stolbovoy radio
 stornoway coastguard
 stornoway coastguard wx
-stpeterbg volmet x05
+stpeterbg volmet x05,35
 surgut aero tsadik-dva
 svetly radio kaliningr.
 svj4 athens meteo fax
@@ -1068,7 +1068,7 @@ sxv ny spata att.stanag
 sydney radio
 syktyvkar aero
 syktyvkar aero sivkar
-syktyvkar volmet x00
+syktyvkar volmet x00,30
 t channel marker
 t channel marker 1050hz
 taganrog radio
@@ -1084,7 +1084,7 @@ tarko-sale aero
 tas maritime radio
 tashkent aero
 tashkent volmet x10
-tashkent volmet x20
+tashkent volmet x20,x50
 tbb ny ankara stanag
 tbb turk.navy stanag
 tbo turk.navy stanag
