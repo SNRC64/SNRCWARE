@@ -52,7 +52,6 @@ ce.north isl.mountain.r
 central weather bureau
 cfh halifax radio
 cga984 hf trading
-
 channel marker a
 channel marker b
 channel marker c
