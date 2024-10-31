@@ -41,18 +41,54 @@ brazzaville radio
 brisbane radio
 bucuresti aero
 bulg.military promrch
-chelyabinsk aero brazka
+ca mau radio
+cabo de gata radio
+cabo la nao radio
+can tho radio
+canarias hfdl (id17)
+cayenne radio
+cbv valparaiso met fax
+ce.north isl.mountain.r
+central weather bureau
+cfh halifax radio
+cga984 hf trading
 
-cua ong radio
-cuban babbler numbers
-cuban spy numbers
-cuban spy numers
-cwc30 la paloma radio
-cwc34 punta del este
-cwc36 rio branco radio
-cwc39 montevideo radio
-cyprus radio
-cyprus radio dsc
+channel marker a
+channel marker b
+channel marker c
+channel marker d
+channel marker e
+channel marker f
+channel marker g
+channel marker h
+channel marker i
+channel marker j
+channel marker k
+channel marker l
+channel marker m
+channel marker n
+channel marker o
+channel marker p
+channel marker q
+channel marker r
+channel marker s
+channel marker t
+channel marker u
+channel marker v
+channel marker w
+channel marker x
+channel marker y
+channel marker z
+chelyabinsk aero brazka
+chennai radio
+chu ottawa
+cocesna cenamer control
+colombo radio
+columbia coastguard
+com.rivadaviavolmet x30
+coruña radio
+córdoba volmet x25,x45
+
 d marker fazan-37
 da nang radio xvt
 dakar radio
